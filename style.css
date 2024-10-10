@@ -14,4 +14,10 @@
         margin: 8;
         padding: 8;
     }
-       
+    .principal {
+        background-image: url("img/Background.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }.container {
+        height: 100vh;
+    }
